@@ -9,3 +9,5 @@ The data for this project may be found here...
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ...and can also be access by running the R script itself.
+
+The run_analysis.R script is completely documented for easy use.
