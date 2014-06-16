@@ -1,4 +1,4 @@
-## README: Samsung Galaxy Accelerometer Application Data Analysis
+## README: Samsung Galaxy Accelerometer Application Data Analysis 
 
 The R script (run_analysis.R) in this repository is a self-contained program to download, manipulate, summarize, and ultimately output a tidy data 
 file as a requirement of the Coursera Getting and Cleaning Data Course Project.
